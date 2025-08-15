@@ -9,7 +9,7 @@ export default function HeroSection() {
     {
       icon: "ri:linkedin-box-line",
       label: "Connect on LinkedIn",
-      url: "https://www.linkedin.com/in/ktyudha",
+      url: "",
     },
   ];
   return (
